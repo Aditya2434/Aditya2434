@@ -1,7 +1,17 @@
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
+### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<h1 align="center">Hi 👋, I'm Aditya Chauhan</h1>
-<h3 align="center">A passionate FullStack and AI developer from India</h3>
+I’m Aditya, a Self-Taught Programmer,CS Graduate from [SHM KNOWLEDGE CAMPUS], curious coder and an intermediate app developer. I make it my mission to know about every technology to some extent, I enjoy learning about new technologies,and i will be happy to collaborate.
+
+- 🔭 I’m currently working on my DS&Algorithms and some minor projects.
+- 🌱 I’m currently learning Kubernetes
+- 👯 I’m looking to collaborate on a flutter project.
+- 🤔 I’m looking for help with cloud.
+- 💬 Ask me about Java,Flutter,Dart,C++ and web dev!
+- 📫 How to reach me: `adityagup1a@gmail.com`
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: You are reading this
+
+[Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya2434&show_icons=true&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
