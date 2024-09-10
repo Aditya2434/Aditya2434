@@ -1,13 +1,13 @@
 ### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I’m Aditya, a Self-Taught Programmer,CS Graduate from [SHM KNOWLEDGE CAMPUS], curious coder and an intermediate app developer. I make it my mission to know about every technology to some extent, I enjoy learning about new technologies,and i will be happy to collaborate.
+I’m Aditya, a Self-Taught Programmer,AI ML Graduate from [NSHM KNOWLEDGE CAMPUS], curious coder and an intermediate ML model developer. I make it my mission to know about every technology to some extent, I enjoy learning about new technologies,and i will be happy to collaborate.
 
-- 🔭 I’m currently working on my DS&Algorithms and some minor projects.
-- 🌱 I’m currently learning Kubernetes
-- 👯 I’m looking to collaborate on a flutter project.
-- 🤔 I’m looking for help with cloud.
-- 💬 Ask me about Java,Flutter,Dart,C++ and web dev!
-- 📫 How to reach me: `adityagup1a@gmail.com`
+- 🔭 I’m currently working on my AI&ML gorithms and some minor projects.
+- 🌱 I’m currently learning Deep learning
+- 👯 I’m looking to collaborate on a AI , ML and Web projects.
+- 🤔 I’m looking for help with Deep Learning.
+- 💬 Ask me about Java, Machine Learning, Artificial Intelligence and python
+- 📫 How to reach me: `adityachauhan149@gmail.com`
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: You are reading this
 
